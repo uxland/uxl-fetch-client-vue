@@ -1,22 +1,21 @@
 {
-  "name": "@uxland/uxl-vuex",
+  "name": "@uxland/uxl-fetch-client-vue",
   "version": "0.0.0-development",
-  "description": "UXLand Vuex",
-  "homepage": "https://github.com/uxland/uxl-vuex#readme",
+  "description": "UXLand Vue Fetch Client",
+  "homepage": "https://github.com/uxland/uxl-fetch-client-vue#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uxland/uxl-vuex.git"
+    "url": "https://github.com/uxland/uxl-fetch-client-vue.git"
   },
   "bugs": {
-    "url": "https://github.com/uxland/uxl-vuex/issues"
+    "url": "https://github.com/uxland/uxl-fetch-client-vue/issues"
   },
   "author": "UXLand <dev@uxland.es> (http://www.uxland.es)",
   "main": "dist/index.js",
   "module": "index.js",
   "types": "index.d.ts",
   "keywords": [
-    "vue",
-    "vuex"
+    "vue"
   ],
   "devDependencies": {
     "@types/ramda": "^0.25.51",
