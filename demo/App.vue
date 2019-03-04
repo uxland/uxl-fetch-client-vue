@@ -2,6 +2,7 @@
   <div>
     <button @click="fetch">FETCH</button>
     <div>Fetching: {{isBusy}}</div>
+    <div>Response</div>
     <pre>{{response}}</pre>
   </div>
 </template>
